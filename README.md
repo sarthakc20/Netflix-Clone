@@ -1,5 +1,7 @@
 # Getting Started with Create React App and Redux
 
+Project Demo : https://www.linkedin.com/posts/sarthak-chatterjee-_netflixclone-reactredux-tmdbapi-activity-7085635935366733824-m2Ja?utm_source=share&utm_medium=member_desktop
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
