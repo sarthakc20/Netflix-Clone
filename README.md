@@ -2,6 +2,8 @@
 
 Project Demo : https://www.linkedin.com/posts/sarthak-chatterjee-_netflixclone-reactredux-tmdbapi-activity-7085635935366733824-m2Ja?utm_source=share&utm_medium=member_desktop
 
+Visit Site : https://netflix-clone-by-sarthak.netlify.app
+
 ![image](https://github.com/sarthakc20/Netflix-Clone/assets/105372144/356c01f6-fe61-4c3b-b2f3-398219cf418f)
 
 ![image](https://github.com/sarthakc20/Netflix-Clone/assets/105372144/fed5a0c1-907f-47e1-9390-dab654d10fb1)
