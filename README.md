@@ -2,6 +2,18 @@
 
 Project Demo : https://www.linkedin.com/posts/sarthak-chatterjee-_netflixclone-reactredux-tmdbapi-activity-7085635935366733824-m2Ja?utm_source=share&utm_medium=member_desktop
 
+![image](https://github.com/sarthakc20/Netflix-Clone/assets/105372144/356c01f6-fe61-4c3b-b2f3-398219cf418f)
+
+![image](https://github.com/sarthakc20/Netflix-Clone/assets/105372144/fed5a0c1-907f-47e1-9390-dab654d10fb1)
+
+![image](https://github.com/sarthakc20/Netflix-Clone/assets/105372144/4f2ba671-0d48-4095-b6e3-8e288df30946)
+
+![image](https://github.com/sarthakc20/Netflix-Clone/assets/105372144/d9e1c334-c0d6-4bfb-a00b-f8104b9e856b)
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
