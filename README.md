@@ -10,8 +10,9 @@ Project Demo : https://www.linkedin.com/posts/sarthak-chatterjee-_netflixclone-r
 
 ![image](https://github.com/sarthakc20/Netflix-Clone/assets/105372144/d9e1c334-c0d6-4bfb-a00b-f8104b9e856b)
 
+![image](https://github.com/sarthakc20/Netflix-Clone/assets/105372144/2654bd68-fb33-4577-b5fd-b15a582e980a)
 
-
+![image](https://github.com/sarthakc20/Netflix-Clone/assets/105372144/529b894f-8c94-404e-abf7-730f9e0e12b6)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
